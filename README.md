@@ -1,32 +1,23 @@
-# HTML to Markdown Converter
+# HTML-to-Markdown Converter
 
-A simple web-based tool to convert HTML to GitHub Flavored Markdown (GFM). This project is open-source and aims to provide an easy way to transform HTML content into Markdown format.
+## Version 1.0.0
 
-## Features
+### Features
+- **Headings:** Supports `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
+- **Paragraphs:** Supports `<p>` tags
+- **Bold Text:** Converts `<strong>` to `**bold**`
+- **Italic Text:** Converts `<em>` to `*italic*`
+- **Underline Text:** Converts `<u>` to `_underline_`
+- **Images:** Converts `<img>` tags to Markdown images `![alt](url)`
+- **Links:** Converts `<a>` tags to Markdown links `[text](url)`
 
-- Convert basic HTML elements to Markdown:
-  - Headings (h1, h2, h3, h4, h5, h6)
-  - Paragraphs (p)
-  - Links (a)
-  - Images (img)
-  - Basic text formatting (bold, italic, underline)
-- Handle unsupported or malformed HTML by converting it to basic paragraph tags or ignoring it.
+### Usage
+1. Open [the HTML-to-Markdown Converter](https://your-repo-link/index.html) in a web browser.
+2. Paste your HTML code into the input area.
+3. Click the "Convert" button to see the Markdown output.
 
-## Live Demo
+### Contributing
+Contributions are welcome! Please see the `CONTRIBUTING.md` file for guidelines.
 
-You can access the live version of the converter [here](https://Soumyaranjan-17.github.io/html-to-markdown-converter/).
-
-## How to Use
-
-1. Open the [converter page](https://github.com/Soumyaranjan-17/html-to-markdown-converter.git).
-2. Paste your HTML code into the textarea provided.
-3. Click the **Convert** button.
-4. The Markdown output will be displayed below.
-
-## Development
-
-To contribute to this project or run it locally, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Soumyaranjan-17/html-to-markdown-converter.git
+### License
+This project is licensed under the MIT License.
