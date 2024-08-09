@@ -12,7 +12,7 @@
 - **Links:** Converts `<a>` tags to Markdown links `[text](url)`
 
 ### Usage
-1. Open [the HTML-to-Markdown Converter](https://your-repo-link/index.html) in a web browser.
+1. Open [the HTML-to-Markdown Converter](https://soumyaranjan-17.github.io/html-to-markdown-converter/) in a web browser.
 2. Paste your HTML code into the input area.
 3. Click the "Convert" button to see the Markdown output.
 
