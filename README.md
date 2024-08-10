@@ -17,7 +17,7 @@
 3. Click the "Convert" button to see the Markdown output.
 
 ### Contributing
-Contributions are welcome! Please see the `CONTRIBUTING.md` file for guidelines.
+Contributions are welcome! Please see the `[CONTRIBUTING.md](https://github.com/Soumyaranjan-17/html-to-markdown-converter/blob/main/CONTRIBUTING.md)` file for guidelines.
 
 ### License
 This project is licensed under the MIT License.
